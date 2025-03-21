@@ -1,3 +1,5 @@
+package StartingDays;
+
 public class VowelClass {
     public static void main( String[] arg ){
         char str = 'a';

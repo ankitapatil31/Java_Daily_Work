@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package StartingDays;
 
 public class TotalNumber {
     public static void main( String[] arg ){

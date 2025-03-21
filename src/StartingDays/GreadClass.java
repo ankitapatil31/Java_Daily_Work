@@ -1,3 +1,5 @@
+package StartingDays;
+
 public class GreadClass {
     public static void main( String[] arg ){
         int studentMarks= 90;

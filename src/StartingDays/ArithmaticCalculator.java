@@ -1,3 +1,5 @@
+package StartingDays;
+
 import java.util.Scanner;
 
 public class ArithmaticCalculator {
