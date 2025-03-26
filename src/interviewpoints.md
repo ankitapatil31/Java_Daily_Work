@@ -16,3 +16,4 @@ byte code is platform independent
 9. how to set heap size/memory for jvm (memory tunning)
 10. java8 garbage collector 
 11. singleton clss  
+12. final vs finally vs finalizes 
