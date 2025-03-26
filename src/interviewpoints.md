@@ -17,3 +17,4 @@ byte code is platform independent
 10. java8 garbage collector 
 11. singleton clss  
 12. final vs finally vs finalizes 
+search : 
