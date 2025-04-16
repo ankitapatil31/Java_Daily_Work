@@ -18,3 +18,11 @@ byte code is platform independent
 11. singleton clss  
 12. final vs finally vs finalizes 
 search : 
+13. hashcode and equal 
+14. how to make a immutable cls 
+15. INTERNAL implimentation of hapmap 
+16. wrapper class
+17. put and patch in postman 
+18. hashmap/ treeset/ linkedhashset differences 
+19. concurrent hashmap / identity hashmap 
+20. equal and hashmap difference 
