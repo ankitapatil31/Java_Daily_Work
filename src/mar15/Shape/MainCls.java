@@ -18,7 +18,7 @@ public class MainCls {
 
         // creating a object of child class and assign it to parent class
 
-        SquareCls shapeCLs = new SquareCls();
+        ShapeCLs shapeCLs = new SquareCls();
         System.out.println("upcasting square  "+ shapeCLs.area());
 
 
