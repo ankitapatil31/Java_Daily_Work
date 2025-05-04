@@ -1,4 +1,4 @@
-package Assignments.Collections.inheritance.ProblemState1;
+package Assignments.inheritance.ProblemState1;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+## Inheritance
+
 Create a Java program to model different types of vehicles. Define a superclass called
 [Vehicle], which has the following attributes and methods: Attributes: [make, model, year]
 Methods: [start(), stop(), displayInfo()] Next, create two subclasses Car and Motorcycle

@@ -1,4 +1,4 @@
-package Assignments.Collections;
+package Assignments;
 
 import java.util.*;
 

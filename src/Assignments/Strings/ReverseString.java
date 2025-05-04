@@ -1,4 +1,4 @@
-package Assignments.Collections.Strings;
+package Assignments.Strings;
 
 public class ReverseString {
     public static void main(String[] args) {

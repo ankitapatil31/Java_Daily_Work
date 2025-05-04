@@ -1,4 +1,4 @@
-package Assignments.Collections.Strings;
+package Assignments.Strings;
 
 public class Reverse_Sentence {
     public static void main(String[] args) {

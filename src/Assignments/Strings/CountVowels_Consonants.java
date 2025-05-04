@@ -1,4 +1,4 @@
-package Assignments.Collections.Strings;
+package Assignments.Strings;
 
 public class CountVowels_Consonants {
     public static void main(String[] args) {

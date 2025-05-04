@@ -26,3 +26,18 @@ search :
 18. hashmap/ treeset/ linkedhashset differences 
 19. concurrent hashmap / identity hashmap 
 20. equal and hashmap difference 
+21. design patten : 24 design patten accept mostly : which one? why? how? 
+refactorying group: singleton/ factory/ builder 
+
+genrate CSV/facker js/ facter liab
+thread full
+
+lamboc ammotation.... required argmunet cinstructer annotation 
+
+inner static class 
+
+reference methods.
+
+steam is only work on liner DS... map is not liner DS.. 
+
+optional of of() method and ofnull()

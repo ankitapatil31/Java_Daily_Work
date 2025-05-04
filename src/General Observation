@@ -1,0 +1,6 @@
+cron job : is basically we can schedule a job for specific time for running job..
+build periodically : we can schedule and time.. and it run auto matically on that time..
+
+Poll SCM : jenkins is continuously asking to github like ... yeh is there any change..
+    if any change on github.. then it automatically trigger build now...
+    SCM: source code management

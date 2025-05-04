@@ -1,4 +1,4 @@
-package Assignments.Collections;
+package Assignments;
 
 public class SringDuplicationRemove {
     public static void main(String[] args) {
