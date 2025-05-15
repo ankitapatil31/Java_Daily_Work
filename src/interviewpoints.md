@@ -28,6 +28,10 @@ search :
 20. equal and hashmap difference 
 21. design patten : 24 design patten accept mostly : which one? why? how? 
 refactorying group: singleton/ factory/ builder 
+22. what is IOC (it is concepts)
+23. nosuchbeandefinationexception 
+
+spring conerter is holding all bins 
 
 genrate CSV/facker js/ facter liab
 thread full
@@ -41,3 +45,8 @@ reference methods.
 steam is only work on liner DS... map is not liner DS.. 
 
 optional of of() method and ofnull()
+
+
+egar loading : application context 
+lazy loading : bin factory
+

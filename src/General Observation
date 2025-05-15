@@ -4,3 +4,38 @@ build periodically : we can schedule and time.. and it run auto matically on tha
 Poll SCM : jenkins is continuously asking to github like ... yeh is there any change..
     if any change on github.. then it automatically trigger build now...
     SCM: source code management
+
+
+chron job: job scheduling
+monolithik
+
+spring
+
+springboot: it work on top op on spring , primary it added 3 feature: web server (tomcat), auto config, version resolver
+
+IOC: inversion of control : all the object is bins
+adhi apan create karaycho object but ata apan ti responsibility frameworkwork var dili mhnun framework can do..to creating obj.. tyala inversion of control..
+hole life cyle of object (control)
+
+
+egar initialization:-
+
+bin factory:
+application context:
+bin factory, application context, spring container etc help to impliment IOC
+
+why spring?
+
+spark is freamework
+
+apache log4j
+
+artifact : jar and war is extention for artifact file.
+
+IOC:
+    how to create/control beans
+    1. XML
+    2. @config annotation
+    3. @component
+
+loosely and tightly couple
